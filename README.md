@@ -406,7 +406,7 @@ Pour se faire, la technique consiste à ajouter un autre service en frontend, c'
 
 Dans cette partie, vous allez modifier l'architecture de l'application pour quelle ressemble à celle-ci : 
 
-![LB Architecture](./img/LB-archi.svg "LB Architecture")
+![LB Architecture](./img/lb-archi.svg "LB Architecture")
 
 ### Ajouter des réplicas de l'API.
 
